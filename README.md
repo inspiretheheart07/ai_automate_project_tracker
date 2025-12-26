@@ -6,7 +6,6 @@ AI Quote Telugu : [![Python CI](https://github.com/inspiretheheart07/ai_automate
 
 AI Quote English : [![Python CI](https://github.com/inspiretheheart07/ai_automate_quote_en/actions/workflows/action.yml/badge.svg)](https://github.com/inspiretheheart07/ai_automate_quote_en/actions/workflows/action.yml)
 
-AI Quote Kannada : [![Python CI](https://github.com/inspiretheheart07/ai_automate_quote_kn/actions/workflows/action.yml/badge.svg)](https://github.com/
-inspiretheheart07/ai_automate_quote_kn/actions/workflows/action.yml)
+AI Quote Kannada : [![Python CI](https://github.com/inspiretheheart07/ai_automate_quote_kn/actions/workflows/action.yml/badge.svg)](https://github.com/inspiretheheart07/ai_automate_quote_kn/actions/workflows/action.yml)
 
 AI Quote Hindi : [![Python CI](https://github.com/inspiretheheart07/ai_automate_quote_hi/actions/workflows/action.yml/badge.svg)](https://github.com/inspiretheheart07/ai_automate_quote_hi/actions/workflows/action.yml)
